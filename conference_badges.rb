@@ -1,6 +1,6 @@
 # Write your code here.
 
-def badge_creator(name)
+def badge_creator(names)
   badges = []
   names.each do |name|
     badges. << badge_maker(name)
@@ -8,4 +8,4 @@ def badge_creator(name)
   badges
 end
 
-def badge
+def badge_maker(name)
