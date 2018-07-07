@@ -9,3 +9,6 @@ def badge_creator(names)
 end
 
 def badge_maker(name)
+  
+
+end
